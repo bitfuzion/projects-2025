@@ -6,7 +6,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import time
 
 # API Key (Replace with your own API key from OpenWeatherMap)
-API_KEY = "7382c91d6202685ec2030aa9bb792258"
+API_KEY = ""
 BASE_URL = "http://api.openweathermap.org/data/2.5/forecast"
 
 # Function to update digital clock
